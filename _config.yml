@@ -1,6 +1,6 @@
 title: Bikini Bottom Discord
 description: The largest, most active, coolest Spongebob Discord server!
-theme: jekyll-theme-cayman
+theme: minima
 defaults:
   - scope:
       path: ""
