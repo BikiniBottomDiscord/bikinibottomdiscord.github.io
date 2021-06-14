@@ -1,3 +1,9 @@
+---
+title: Bikini Bottom Discord
+description: Welcome to Bikini Bottom!
+og_image: "https://bikinibottomdiscord.org/assets/krusty_krab.png"
+---
+
 
 ### Index
 - [Rules](./rules)
