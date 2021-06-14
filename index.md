@@ -1,7 +1,4 @@
 
-# Welcome to Bikini Bottom!
-
-
 ### Index
 - [Rules](./rules)
 - [Leaderboard](./leaderboard)
