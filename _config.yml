@@ -1,6 +1,6 @@
 title: Bikini Bottom Discord
 description: The largest, most active, coolest Spongebob Discord server!
-theme: minima
+remote_theme: "mmistakes/minimal-mistakes@4.23.0"
 defaults:
   - scope:
       path: ""
